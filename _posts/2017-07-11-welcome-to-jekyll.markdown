@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: game
 title:  "Welcome to Jekyll!"
 date:   2017-07-11 19:11:54 +0200
 categories: jekyll update
