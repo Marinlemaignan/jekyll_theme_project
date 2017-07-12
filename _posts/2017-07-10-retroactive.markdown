@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "bromance"
-date:   2017-07-11 19:11:54 +0200
+title: bromance
+date: '2017-07-11T17:11:54.000+00:00'
 categories: selflove
 ---
 I'm all bro love
